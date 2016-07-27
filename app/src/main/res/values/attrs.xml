@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WaitingView">
+        <attr name="viewColor" format="color" />
+        <attr name="strokeColor" format="color" />
+        <attr name="strokeSize" format="integer" />
+        <attr name="viewSpacing" format="integer" />
+        <attr name="circleNum" format="integer" />
+        <attr name="circleSize" format="integer"/>
+        <attr name="AutoStart" format="boolean" />
+    </declare-styleable>
+
+</resources>
